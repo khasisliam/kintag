@@ -103,3 +103,9 @@ body {
     color: #e63946; /* Matches the red theme */
     margin-top: -3px; /* Slightly adjusts it to align perfectly with the text */
 }
+.nfc-icon {
+    height: 18px;
+    vertical-align: middle;
+    margin: 0 4px;
+    filter: contrast(1.2);
+}
