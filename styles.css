@@ -109,3 +109,9 @@ body {
     margin: 0 4px;
     filter: contrast(1.2);
 }
+.small-text {
+    font-size: inherit;
+    color: #555;
+    display: block;
+    margin-top: 8px;
+}
