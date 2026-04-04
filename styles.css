@@ -107,7 +107,7 @@ body {
     vertical-align: middle;
     margin: 0 2px;
     color: #e63946; /* Matches the red theme */
-    margin-top: 0px; /* Slightly adjusts it to align perfectly with the text */
+    margin-top: -2px; /* Slightly adjusts it to align perfectly with the text */
     height: 20px;
     vertical-align: middle;
 }
